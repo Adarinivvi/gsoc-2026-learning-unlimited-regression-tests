@@ -21,11 +21,10 @@ Building a robust, well-tested codebase that enables Learning Unlimited chapters
 ---
 
 ## 📁 Repository Structure
-├── proposal/ # GSoC proposal PDF
-├── docs/ # Documentation and test plans
-├── examples/ # Example test implementations
-├── scripts/ # Helper scripts for testing
-└── .github/ # CI/CD workflows
+├── docs/ 
+├── examples/ 
+├── scripts/ 
+└── .github/
 
 ---
 
