@@ -22,8 +22,11 @@ Building a robust, well-tested codebase that enables Learning Unlimited chapters
 
 ## 📁 Repository Structure
 ├── docs/ 
+
 ├── examples/ 
+
 ├── scripts/ 
+
 └── .github/
 
 ---
