@@ -52,6 +52,7 @@ pip install -r requirements.txt
 
 # Run example tests
 pytest examples/
+```
 
 🛠️ Technologies Used
 Python 3.9+ - Core language
